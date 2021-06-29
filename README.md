@@ -15,6 +15,8 @@ Para executar, use o seguinte comando:
 todo
 ```
 
+**Para executá-lo em qualquer lugar, siga as instruções do seu shell para colocar o script no path!**
+
 ### Windows:
 Apenas vá para releases e baixe o arquivo `todo.exe`.
 
