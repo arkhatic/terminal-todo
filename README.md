@@ -64,7 +64,7 @@ O comando `showdone` é similar ao `showall`, com a diferença dele mostrar os i
 ```
 
 ### reset
-![reset](assets/reset.png)
+![reset](assets/reset.png) <br>
 O comando `reset` **exclui todos os bancos de dados (as databases), use-o com precaução**.
 ```
 > reset 
