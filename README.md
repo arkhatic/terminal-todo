@@ -22,14 +22,14 @@ Apenas vá para releases e baixe o arquivo `todo.exe`.
 
 ## Sigam o tutorial abaixo para aprender os comandos:
 ### help
-![help](assets/help.png)
+![help](assets/help.png) <br>
 O comando `help` basicamente mostra todos os comandos, para fácil e rápida consulta!
 ```
 > help
 ```
 
 ### todo
-![todo](assets/todo.png)
+![todo](assets/todo.png) <br>
 O comando todo é, sem dúvidas, a base do projeto. Com ele, é possível adicionar itens a datas específicas ou criar novas datas.
 ```
 command data item
@@ -37,7 +37,7 @@ command data item
 ```
 
 ### done
-![done](assets/done.png)
+![done](assets/done.png) <br>
 O comando `done` é outro comando muito importante: com ele que você finaliza as tarefas e sente aquela boa sensação de realização. Os itens são excluídos da database principal, mas são adicionados a outra database justamente para caso você precise consultá-los depois.
 ```
 done item
@@ -57,7 +57,7 @@ show data
 ![showall](assets/showall.png)
 
 ### showdone
-![showdone](assets/showdone.png)
+![showdone](assets/showdone.png) <br>
 O comando `showdone` é similar ao `showall`, com a diferença dele mostrar os itens finalizados, não os TODOs.
 ```
 > showdone
